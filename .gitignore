@@ -1,0 +1,5 @@
+build/
+Misc Files/
+venv/
+.idea
+_pycache_
